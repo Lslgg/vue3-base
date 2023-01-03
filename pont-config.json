@@ -1,0 +1,8 @@
+{
+  "originUrl": "https://shcjmx.an-ht.com/shcjapi/v2/api-docAPI.cadImages.getFxys",
+  "templatePath": "./scripts/pontTemplate",
+  "outDir": "./src/api",
+  "mocks": {
+    "enable": false
+  }
+}

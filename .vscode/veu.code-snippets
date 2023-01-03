@@ -1,0 +1,21 @@
+{
+	"vue to out file": {
+		"prefix": "v-setup",
+		"body": [
+			"",
+			"<script setup lang='ts'>",
+			"</script>",
+			"",
+			"<template>",
+			"<div class='$1'>",
+			"",
+			"</div>",
+			"</template>",
+			"",
+			"<style lang='less' scoped>",
+			"</style>",
+			""
+		],
+		"description": "vue to inner file"
+	},
+}

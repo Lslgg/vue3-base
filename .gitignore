@@ -1,0 +1,9 @@
+.idea/
+.git/
+.DS_Store
+node_modules
+dist/
+.mocks/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
